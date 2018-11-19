@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyDictML</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="about_text">
+        "Приложение-справочник по Mobile Legengs. \n\n"
+        "Программист - Дмитрий Салагор. \n\n"
+        "Тестеры - Дмитрий Салагор, Игорь Салагор, Dmitriy Kaminskiy \n\n"
+        "Дизайнер - Дмитрий Каминский \n\n"
+        "Почта - FactorialD@gmail.com \n\n"
+    </string>
+
+    <string name="slidepanel_list_item_settings_stringsource">Настройки</string>
+    <string name="slidepanel_main_guides_stringsource">Гайды</string>
+    <string name="slidepanel_list_item_gameitems_stringsource">Предметы</string>
+    <string name="slidepanel_list_item_heroes_stringsource">Герои</string>
+    <string name="slidepanel_list_item_about_stringsource">Автор</string>
+    <string name="title_activity_about">Инфо</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_browser">Викия</string>
+    <string name="skills_stringresource">Способности</string>
+    <string name="equipment_stringresource">Снаряжение</string>
+    <string name="hero_durability_stringresource">Стойкость</string>
+    <string name="hero_offence_stringresource">Урон</string>
+    <string name="hero_ability_effects_string_resource">Сила способностей</string>
+    <string name="hero_difficulty_stringresource">Сложность</string>
+    <string name="tips_and_tricks_stringresource">Фишки</string>
+</resources>

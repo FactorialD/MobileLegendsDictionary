@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/slidepanel_list_item_heroes"
+            android:icon="@drawable/main_drawer_hero_icon"
+            android:title="@string/slidepanel_list_item_heroes_stringsource" />
+        <item
+            android:id="@+id/slidepanel_list_item_gameitems"
+            android:icon="@drawable/main_drawer_item_icon"
+            android:title="@string/slidepanel_list_item_gameitems_stringsource" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/slidepanel_list_item_settings"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/slidepanel_list_item_settings_stringsource" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/slidepanel_list_item_about"
+                android:icon="@android:drawable/ic_dialog_info"
+                android:title="@string/slidepanel_list_item_about_stringsource" />
+        </menu>
+    </item>
+
+</menu>

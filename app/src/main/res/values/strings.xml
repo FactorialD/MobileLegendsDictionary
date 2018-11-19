@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MyDictML</string>
+    <string name="title_activity_hero_main" translatable="false">Title</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="slidepanel_main_guides_stringsource">Guides</string>
+    <string name="slidepanel_list_item_settings_stringsource">Settings</string>
+    <string name="slidepanel_list_item_gameitems_stringsource">Items</string>
+    <string name="slidepanel_list_item_heroes_stringsource">Heroes</string>
+    <string name="slidepanel_list_item_about_stringsource">About</string>
+    <string name="title_activity_heroes" translatable="false">HeroesActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_all_heroes" translatable="false">AllHeroesActivity</string>
+
+    <string name="wiki_url" translatable="false">http://mobile-legends.wikia.com/wiki/Mobile_Legends_Wiki</string>
+    <string name="about_text">
+        "There are an app-helper for game Mobile Legengs. \n\n"
+        "Programmer - Dmitriy Salahor. \n\n"
+        "Designer - Dmitriy Kaminskiy. \n\n"
+        "Testers - Dmitriy Salahor, Ihor Salahor, Dmitriy Kaminskiy \n\n"
+        "Email - FactorialD@gmail.com \n\n"
+    </string>
+    <string name="title_activity_about">Info</string>
+
+    <string name="title_activity_browser">Wikia</string>
+    <string name="skills_stringresource">Skills</string>
+    <string name="equipment_stringresource">Equipment</string>
+    <string name="tips_and_tricks_stringresource">Tips and tricks</string>
+    <string name="hero_durability_stringresource">Durability</string>
+    <string name="hero_offence_stringresource">Offence</string>
+    <string name="hero_ability_effects_string_resource">Ability effects</string>
+    <string name="hero_difficulty_stringresource">Difficulty</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

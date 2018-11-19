@@ -1,0 +1,145 @@
+body{
+	height: 100%;
+	box-sizing: border-box;
+	/*background-color: rgb(11, 68, 160);*/
+	background: -webkit-linear-gradient(to top left, #000035, #010077);
+	background: linear-gradient(to top left, #000035, #010077);
+	-webkit-background-attachment: fixed;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-size: 14px;
+	color: #a5a5a5;
+}
+
+.lol{
+width: 100px;
+height: 100px;
+/*background: url("file:///android_res/drawable/hero_little_icon_miya.gif") no-repeat;*/
+background-size: cover;
+margin-right: 15px;
+}
+
+/*.container{
+	width: 65%;
+	margin: 0 auto;
+}*/
+.heroName{
+	text-align: center;
+}
+.ability-caption{
+	text-align: center;
+	margin: 0 0 10px 0;
+}
+/*разноцветный текст*/
+.white{
+	color: white;
+}
+.red{
+	color: red;
+}
+.blue{
+	color: blue;
+}
+.yellow{
+	color: yellow;
+}
+
+/*Краткое описание героя*/
+.hero__settings{
+	display: flex;
+	flex-flow: row nowrap;
+	padding: 15px 0 15px 0;
+}
+.hero__settings_img{
+	width: 100px;
+	height: 100px;
+	border: 1px solid #000;
+	margin-right: 15px;
+}
+.hero__settings_description{
+	flex: 1;
+	margin-right: 15px;
+}
+
+/*Способности героя*/
+.heroAbilities{
+	display: flex;
+	flex-flow: row wrap;
+	flex: 1;
+}
+.heroAbility__img{
+	width: 100px;	
+	height: 100px;	
+}
+.ability{
+	display: flex;
+	flex-flow: column nowrap;
+	flex: 1;
+	margin-right: 15px;
+}
+.ability:last-child{
+	margin-right: 0;
+}
+.ability a{
+	text-align: center;
+	text-decoration: none;
+}
+.ability a:visited, .ability a:link{
+	color: #000;
+}
+.ability a:active{
+	color: red;
+}
+.ability__img{
+	width: 100px;
+	height: 100px;
+	border: 1px solid #000;
+}
+.ability__name{
+	text-align: center;
+}
+
+ /*Полное описание способностей*/
+.fullAbility{
+	display: flex;
+	flex-flow: row wrap;
+	margin-bottom: 15px;
+}
+.fullAbilityImg{
+	width: 100px;
+	height: 100px;
+	border: 1px solid #000;
+	margin-right: 15px;
+	flex: 0;
+}
+.littleAbilityDescription{
+	margin-right: 15px;
+	flex: 1;
+	justify-content: center;
+}
+.littleAbilityDescription h4{
+	padding: 0;
+	margin: 0;
+}
+.littleAbilityDescription p{
+	margin-top: 8px;
+}
+.fullAbilityDescription{
+	display: block;
+	/*margin: 0;*/
+	margin-top: 5px;
+}
+
+
+/*Media for smartphones*/
+@media only screen and (max-width: 767px){
+	.container{
+		width: 100%;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px){
+	.container{
+		width: 100%;
+	}
+}

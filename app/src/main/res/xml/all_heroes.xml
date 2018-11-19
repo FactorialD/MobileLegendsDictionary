@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+    <Hero
+        name = "Belerick"
+        icon = "hero_little_icon_belerick"
+        bigIcon = "hero_big_icon_belerick"
+        type = "Tank"
+        specialization = "Regen/Poke"
+        durability = "17"
+        offence = "13"
+        ability_effects = ""
+        difficulty = "9"
+        >
+    </Hero>
+    <Hero
+        name = "Hanzo"
+        icon = "hero_little_icon_default"
+        bigIcon = "hero_big_icon_default"
+        type = "unknown"
+        specialization = "unknown"
+        durability = "0"
+        offence = "0"
+        ability_effects = "0"
+        difficulty = "0">
+    </Hero>
+    <Hero
+        name = "Lunox"
+        icon = "hero_little_icon_lunox"
+        bigIcon = "hero_big_icon_lunox"
+        type = "Mage"
+        specialization = "Damage/Poke"
+        durability = "13"
+        offence = "8"
+        ability_effects = "18"
+        difficulty = "16">
+    </Hero>
+    <Hero
+        name = "Leomord"
+        icon = "hero_little_icon_leomord"
+        bigIcon = "hero_big_icon_leomord"
+        type = "Fighter"
+        specialization = "Push/Burst"
+        durability = "15"
+        offence = "18"
+        ability_effects = "9"
+        difficulty = "10">
+    </Hero>
+    <Hero
+        name = "Vale"
+        icon = "hero_little_icon_vale"
+        bigIcon = "hero_big_icon_vale"
+        type = "Mage"
+        specialization = "Poke/Burst"
+        durability = "8"
+        offence = "6"
+        ability_effects = "17"
+        difficulty = "14"
+        >
+    </Hero>
+    <Hero
+        name = "Cloude"
+        icon = "hero_little_icon_claude"
+        bigIcon = "hero_big_icon_claude"
+        type = "Marksman"
+        specialization = "Reap/Burst"
+        durability = "7"
+        offence = "17"
+        ability_effects = "10"
+        difficulty = "17"
+        >
+    </Hero>
+    <Hero
+        name = "Aldous"
+        icon = "hero_little_icon_aldous"
+        bigIcon = "hero_big_icon_aldous"
+        type = "Fighter"
+        specialization = "Push/Burst"
+        durability = "16"
+        offence = "15"
+        ability_effects = "13"
+        difficulty = "6"
+        >
+    </Hero>
+    <Hero
+        name = "Selena"
+        icon = "hero_little_icon_selena"
+        bigIcon = "hero_big_icon_selena"
+        type = "Mage/Assassin"
+        specialization = "Reap/Burst"
+        durability = "10"
+        offence = "11"
+        ability_effects = "16"
+        difficulty = "15"
+        >
+    </Hero>
+    <Hero
+        name = "Kaja"
+        icon = "hero_little_icon_kaja"
+        bigIcon = "hero_big_icon_kaja"
+        type = "Tank/Support"
+        specialization = "Initiator/Charge"
+        durability = "16"
+        offence = "10"
+        ability_effects = "18"
+        difficulty = "12"
+        >
+    </Hero>
+    <Hero
+        name = "Chang`E"
+        icon = "hero_little_icon_change"
+        bigIcon = "hero_big_icon_change"
+        type = "Mage"
+        specialization = "Reap/Poke"
+        durability = "9"
+        offence = "8"
+        ability_effects = "18"
+        difficulty = "14"
+        >
+    </Hero>
+    <Hero
+        name = "Hanabi"
+        icon = "hero_little_icon_hanabi"
+        bigIcon = "hero_big_icon_hanabi"
+        type = "Marksman"
+        specialization = "Regen/Burst Damage"
+        durability = "10"
+        offence = "18"
+        ability_effects = "11"
+        difficulty = "13"
+        >
+    </Hero>
+    <Hero
+        name = "Uranus"
+        icon = "hero_little_icon_uranus"
+        bigIcon = "hero_big_icon_uranus"
+        type = "Tank"
+        specialization = "Regen/Poke"
+        durability = "16"
+        offence = "7"
+        ability_effects = "16"
+        difficulty = "10"
+        >
+    </Hero>
+    <Hero
+        name = "Martis"
+        icon = "hero_little_icon_martis"
+        bigIcon = "hero_big_icon_martis"
+        type = "Fighter"
+        specialization = "Reap/Burst"
+        durability = "18"
+        offence = "16"
+        ability_effects = "14"
+        difficulty = "16"
+        >
+    </Hero>
+    <Hero
+        name = "Valir"
+        icon = "hero_little_icon_valir"
+        bigIcon = "hero_big_icon_valir"
+        type = "Mage"
+        specialization = "Burst/Poke"
+        durability = "9"
+        offence = "8"
+        ability_effects = "18"
+        difficulty = "14"
+        >
+    </Hero>
+    <Hero
+        name = "Gussion"
+        icon = "hero_little_icon_gossen"
+        bigIcon = "hero_big_icon_gossen"
+        type = "Assassin/Mage"
+        specialization = "Charge/Burst"
+        durability = "11"
+        offence = "10"
+        ability_effects = "19"
+        difficulty = "18"
+        >
+    </Hero>
+    <Hero
+        name = "Angela"
+        icon = "hero_little_icon_angela"
+        bigIcon = "hero_big_icon_angela"
+        type = "Support"
+        specialization = "Regen/Poke"
+        durability = "10"
+        offence = "8"
+        ability_effects = "18"
+        difficulty = "8"
+        >
+    </Hero>
+    <Hero
+        name = "Jawhead"
+        icon = "hero_little_icon_jawhead"
+        bigIcon = "hero_big_icon_jawhead"
+        type = "Fighter"
+        specialization = "Charger/Burst"
+        durability = "18"
+        offence = "16"
+        ability_effects = "14"
+        difficulty = "16"
+        >
+    </Hero>
+    <Hero
+        name = "Lesley"
+        icon = "hero_little_icon_lesley"
+        bigIcon = "hero_big_icon_lesley"
+        type = "Marksman/Assassin"
+        specialization = "Reap/Burst"
+        durability = "8"
+        offence = "16"
+        ability_effects = "10"
+        difficulty = "12"
+        >
+    </Hero>
+    <Hero
+        name = "Fasha"
+        icon = "hero_little_icon_fasha"
+        bigIcon = "hero_big_icon_pharsa"
+        type = "Mage"
+        specialization = "Damage/Poke"
+        durability = "11"
+        offence = "8"
+        ability_effects = "18"
+        difficulty = "15"
+        >
+    </Hero>
+    <Hero
+        name = "Helcurt"
+        icon = "hero_little_icon_helcurt"
+        bigIcon = "hero_big_icon_helcurt"
+        type = "Assassin"
+        specialization = "Charge/Burst"
+        durability = "10"
+        offence = "19"
+        ability_effects = "10"
+        difficulty = "11"
+        >
+    </Hero>
+    <Hero
+        name = "Zhask"
+        icon = "hero_little_icon_zhask"
+        bigIcon = "hero_big_icon_zhask"
+        type = "Mage"
+        specialization = "Push/Poke"
+        durability = "10"
+        offence = "8"
+        ability_effects = "18"
+        difficulty = "8"
+        >
+    </Hero>
+    <Hero
+        name = "Hylos"
+        icon = "hero_little_icon_hylos"
+        bigIcon = "hero_big_icon_hylos"
+        type = "Tank"
+        specialization = "Regen/Poke"
+        durability = "18"
+        offence = "7"
+        ability_effects = "13"
+        difficulty = "5"
+        >
+    </Hero>
+    <Hero
+        name = "Diggie"
+        icon = "hero_little_icon_diggie"
+        bigIcon = "hero_big_icon_diggie"
+        type = "Support"
+        specialization = "Crowd Control/Cost"
+        durability = "12"
+        offence = "9"
+        ability_effects = "15"
+        difficulty = "6"
+        >
+    </Hero>
+    <Hero
+        name = "Lancelot"
+        icon = "hero_little_icon_lancelot"
+        bigIcon = "hero_big_icon_lancelot"
+        type = "Assassin"
+        specialization = "Charge/Burst"
+        durability = "10"
+        offence = "19"
+        ability_effects = "8"
+        difficulty = "14"
+        >
+    </Hero>
+    <Hero
+        name = "Odette"
+        icon = "hero_little_icon_odette"
+        bigIcon = "hero_big_icon_odette"
+        type = "Mage"
+        specialization = "Burst/Poke"
+        durability = "8"
+        offence = "9"
+        ability_effects = "19"
+        difficulty = "14"
+        >
+    </Hero>
+
+    <Hero
+        name = "Argus"
+        icon = "hero_little_icon_argus"
+        bigIcon = "hero_big_icon_argus"
+        type = "Fighter"
+        specialization = "Charge/Burst"
+        durability = "9"
+        offence = "18"
+        ability_effects = "16"
+        difficulty = "9"
+        >
+    </Hero>
+    <Hero
+        name = "Grock"
+        icon = "hero_little_icon_grock"
+        bigIcon = "hero_big_icon_grock"
+        type = "Tank"
+        specialization = "Charge/Engage"
+        durability = "18"
+        offence = "10"
+        ability_effects = "12"
+        difficulty = "8"
+        >
+    </Hero>
+    <Hero
+        name = "Irithel"
+        icon = "hero_little_icon_irithel"
+        bigIcon = "hero_big_icon_irithel"
+        type = "Marksman"
+        specialization = "Reap"
+        durability = "8"
+        offence = "16"
+        ability_effects = "10"
+        difficulty = "14"
+        >
+    </Hero>
+    <Hero
+        name = "Harley"
+        icon = "hero_little_icon_harley"
+        bigIcon = "hero_big_icon_harley"
+        type = "Mage"
+        specialization = "Damage/Cost"
+        durability = "8"
+        offence = "12"
+        ability_effects = "14"
+        difficulty = "10"
+        >
+    </Hero>
+    <Hero
+        name = "Gatotkaca"
+        icon = "hero_little_icon_gatotkaca"
+        bigIcon = "hero_big_icon_gatotkaca"
+        type = "Tank"
+        specialization = "Engage/Crowd Control"
+        durability = "18"
+        offence = "10"
+        ability_effects = "14"
+        difficulty = "14"
+        >
+    </Hero>
+    <Hero
+        name = "Karrie"
+        icon = "hero_little_icon_carrie"
+        bigIcon = "hero_big_icon_carrie"
+        type = "Marksman"
+        specialization = "Reap/Burst"
+        durability = "8"
+        offence = "18"
+        ability_effects = "10"
+        difficulty = "18"
+        >
+    </Hero>
+    <Hero
+        name = "Roger"
+        icon = "hero_little_icon_roger"
+        bigIcon = "hero_big_icon_roger"
+        type = "Fighter/Marksman"
+        specialization = "Reap/Burst"
+        durability = "10"
+        offence = "14"
+        ability_effects = "12"
+        difficulty = "10"
+        >
+    </Hero>
+    <Hero
+        name = "Vexana"
+        icon = "hero_little_icon_vexana"
+        bigIcon = "hero_big_icon_vexana"
+        type = "Mage"
+        specialization = "Burst"
+        durability = "8"
+        offence = "10"
+        ability_effects = "18"
+        difficulty = "12"
+        >
+    </Hero>
+    <Hero
+        name = "Lapu Lapu"
+        icon = "hero_little_icon_lapulapu"
+        bigIcon = "hero_big_icon_lapulapu"
+        type = "Fighter/Assassin "
+        specialization = "Charge/Burst"
+        durability = "8"
+        offence = "16"
+        ability_effects = "12"
+        difficulty = "8"
+        >
+    </Hero>
+    <Hero
+        name = "Aurora"
+        icon = "hero_little_icon_aurora"
+        bigIcon = "hero_big_icon_aurora"
+        type = "Mage"
+        specialization = "Crowd Control/Burst"
+        durability = "8"
+        offence = "10"
+        ability_effects = "18"
+        difficulty = "14"
+        >
+    </Hero>
+    <Hero
+        name = "Hilda"
+        icon = "hero_little_icon_hilda"
+        bigIcon = "hero_big_icon_hilda"
+        type = "Fighter/Tank"
+        specialization = "Regen/damage"
+        durability = "18"
+        offence = "14"
+        ability_effects = "12"
+        difficulty = "10"
+        >
+    </Hero>
+    <Hero
+        name = "Estes"
+        icon = "hero_little_icon_estes"
+        bigIcon = "hero_big_icon_estes"
+        type = "Support"
+        specialization = "Regen/Cost"
+        durability = "10"
+        offence = "10"
+        ability_effects = "14"
+        difficulty = "9"
+        >
+    </Hero>
+    <Hero
+        name = "Cyclops"
+        icon = "hero_little_icon_cyclope"
+        bigIcon = "hero_big_icon_cyclope"
+        type = "Mage"
+        specialization = "damage/Cost"
+        durability = "8"
+        offence = "9"
+        ability_effects = "18"
+        difficulty = "12"
+        >
+    </Hero>
+    <Hero
+        name = "Johnson"
+        icon = "hero_little_icon_johnson"
+        bigIcon = "hero_big_icon_johnson"
+        type = "Tank"
+        specialization = "Engage/Crowd Control"
+        durability = "18"
+        offence = "8"
+        ability_effects = "12"
+        difficulty = "10"
+        >
+    </Hero>
+    <Hero
+        name = "Moskov"
+        icon = "hero_little_icon_moskov"
+        bigIcon = "hero_big_icon_moskov"
+        type = "Marksman"
+        specialization = "Push/Burst"
+        durability = "10"
+        offence = "18"
+        ability_effects = "12"
+        difficulty = "15"
+        >
+    </Hero>
+    <Hero
+        name = "Yi Sun-Shin"
+        icon = "hero_little_icon_lisunsin"
+        bigIcon = "hero_big_icon_yisunshin"
+        type = "Marksman"
+        specialization = "Reap/Cost"
+        durability = "10"
+        offence = "18"
+        ability_effects = "14"
+        difficulty = "12"
+        >
+    </Hero>
+    <Hero
+        name = "Ruby"
+        icon = "hero_little_icon_ruby"
+        bigIcon = "hero_big_icon_ruby"
+        type = "Fighter"
+        specialization = "Crowd Control"
+        durability = "16"
+        offence = "9"
+        ability_effects = "13"
+        difficulty = "14"
+        >
+    </Hero>
+    <Hero
+        name = "Alpha"
+        icon = "hero_little_icon_alpha"
+        bigIcon = "hero_big_icon_alpha"
+        type = "Fighter"
+        specialization = "Charge/Damage"
+        durability = "14"
+        offence = "16"
+        ability_effects = "12"
+        difficulty = "14"
+        >
+    </Hero>
+    <Hero
+        name = "Sun"
+        icon = "hero_little_icon_sun"
+        bigIcon = "hero_big_icon_sun"
+        type = "Fighter"
+        specialization = "Charge/Push"
+        durability = "17"
+        offence = "13"
+        ability_effects = "10"
+        difficulty = "9"
+        >
+    </Hero>
+    <Hero
+        name = "Chou"
+        icon = "hero_little_icon_chou"
+        bigIcon = "hero_big_icon_chou"
+        type = "Fighter"
+        specialization = "Charge/Burst"
+        durability = "17"
+        offence = "16"
+        ability_effects = "11"
+        difficulty = "13"
+        >
+    </Hero>
+    <Hero
+        name = "Kagura"
+        icon = "hero_little_icon_kagura"
+        bigIcon = "hero_big_icon_kagura"
+        type = "Mage"
+        specialization = "Damage/ Reap"
+        durability = "13"
+        offence = "9"
+        ability_effects = "19"
+        difficulty = "18"
+        >
+    </Hero>
+    <Hero
+        name = "Natalia"
+        icon = "hero_little_icon_natalia"
+        bigIcon = "hero_big_icon_natalia"
+        type = "Assassin"
+        specialization = "Charge/Burst"
+        durability = "12"
+        offence = "19"
+        ability_effects = "9"
+        difficulty = "11"
+        >
+    </Hero>
+    <Hero
+        name = "Gord"
+        icon = "hero_little_icon_gord"
+        bigIcon = "hero_big_icon_gord"
+        type = "Mage"
+        specialization = "Damage/Poke"
+        durability = "10"
+        offence = "9"
+        ability_effects = "18"
+        difficulty = "14"
+        >
+    </Hero>
+    <Hero
+        name = "Freya"
+        icon = "hero_little_icon_freya"
+        bigIcon = "hero_big_icon_freya"
+        type = "Fighter"
+        specialization = "Charge/ Burst"
+        durability = "15"
+        offence = "17"
+        ability_effects = "8"
+        difficulty = "9"
+        >
+    </Hero>
+    <Hero
+        name = "Hayabusa"
+        icon = "hero_little_icon_hayabusa"
+        bigIcon = "hero_big_icon_hayabusa"
+        type = "Assassin"
+        specialization = "Charge/Burst"
+        durability = "13"
+        offence = "18"
+        ability_effects = "11"
+        difficulty = "17"
+        >
+    </Hero>
+    <Hero
+        name = "Lolita"
+        icon = "hero_little_icon_lolita"
+        bigIcon = "hero_big_icon_lolita"
+        type = "Tank/Support"
+        specialization = "Crowd Control/Push"
+        durability = "17"
+        offence = "11"
+        ability_effects = "15"
+        difficulty = "10"
+        >
+    </Hero>
+    <Hero
+        name = "Minotaur"
+        icon = "hero_little_icon_minotaur"
+        bigIcon = "hero_big_icon_minotaur"
+        type = "Tank/Support"
+        specialization = "Crowd Control"
+        durability = "18"
+        offence = "13"
+        ability_effects = "11"
+        difficulty = "6"
+        >
+    </Hero>
+    <Hero
+        name = "Layla"
+        icon = "hero_little_icon_layla"
+        bigIcon = "hero_big_icon_layla"
+        type = "Marksman"
+        specialization = "Reap"
+        durability = "4"
+        offence = "19"
+        ability_effects = "13"
+        difficulty = "5"
+        >
+    </Hero>
+    <Hero
+        name = "Fanny"
+        icon = "hero_little_icon_fanny"
+        bigIcon = "hero_big_icon_fanny"
+        type = "Assassin"
+        specialization = "Charge/Reap"
+        durability = "12"
+        offence = "18"
+        ability_effects = "11"
+        difficulty = "20"
+        >
+    </Hero>
+    <Hero
+        name = "Zilong"
+        icon = "hero_little_icon_zilong"
+        bigIcon = "hero_big_icon_zilong"
+        type = "Fighter/Assassin"
+        specialization = "Charge/Initiator"
+        durability = "15"
+        offence = "17"
+        ability_effects = "9"
+        difficulty = "11"
+        >
+    </Hero>
+    <Hero
+        name = "Eudora"
+        icon = "hero_little_icon_eudora"
+        bigIcon = "hero_big_icon_eudora"
+        type = "Mage"
+        specialization = "Damage/Reap"
+        durability = "9"
+        offence = "10"
+        ability_effects = "18"
+        difficulty = "9"
+        >
+    </Hero>
+    <Hero
+        name = "Rafaela"
+        icon = "hero_little_icon_rafaela"
+        bigIcon = "hero_big_icon_rafaela"
+        type = "Support"
+        specialization = "Regen"
+        durability = "11"
+        offence = "11"
+        ability_effects = "15"
+        difficulty = "8"
+        >
+    </Hero>
+    <Hero
+        name = "Clint"
+        icon = "hero_little_icon_clint"
+        bigIcon = "hero_big_icon_clint"
+        type = "Marksman"
+        specialization = "Burst/Poke"
+        durability = "9"
+        offence = "17"
+        ability_effects = "12"
+        difficulty = "10"
+        >
+    </Hero>
+    <Hero
+        name = "Bruno"
+        icon = "hero_little_icon_bruno"
+        bigIcon = "hero_big_icon_bruno"
+        type = "Marksman"
+        specialization = "Reap"
+        durability = "9"
+        offence = "18"
+        ability_effects = "14"
+        difficulty = "10"
+        >
+    </Hero>
+    <Hero
+        name = "Bane"
+        icon = "hero_little_icon_bane"
+        bigIcon = "hero_big_icon_bane"
+        type = "Fighter"
+        specialization = "Push"
+        durability = "15"
+        offence = "14"
+        ability_effects = "11"
+        difficulty = "12"
+        >
+    </Hero>
+    <Hero
+        name = "Franko"
+        icon = "hero_little_icon_franko"
+        bigIcon = "hero_big_icon_franko"
+        type = "Tank"
+        specialization = "Initiator"
+        durability = "16"
+        offence = "13"
+        ability_effects = "11"
+        difficulty = "13"
+        >
+    </Hero>
+    <Hero
+        name = "Akai"
+        icon = "hero_little_icon_akai"
+        bigIcon = "hero_big_icon_akai"
+        type = "Tank"
+        specialization = "Charge/Crowd Control"
+        durability = "18"
+        offence = "13"
+        ability_effects = "11"
+        difficulty = "9"
+        >
+    </Hero>
+    <Hero
+        name = "Karina"
+        icon = "hero_little_icon_karina"
+        bigIcon = "hero_big_icon_karina"
+        type = "Assassin/Mage"
+        specialization = "Charge/Reap"
+        durability = "8"
+        offence = "18"
+        ability_effects = "10"
+        difficulty = "5"
+        >
+    </Hero>
+    <Hero
+        name = "Alucard"
+        icon = "hero_little_icon_alucard"
+        bigIcon = "hero_big_icon_alucard"
+        type = "Fighter/Assassin"
+        specialization = "Charge/Crowd Control"
+        durability = "10"
+        offence = "17"
+        ability_effects = "10"
+        difficulty = "9"
+        >
+    </Hero>
+    <Hero
+        name = "Tigreal"
+        icon = "hero_little_icon_tigreal"
+        bigIcon = "hero_big_icon_tigreal"
+        type = "Tank"
+        specialization = "Crowd Control"
+        durability = "18"
+        offence = "10"
+        ability_effects = "13"
+        difficulty = "5"
+        >
+    </Hero>
+    <Hero
+        name = "Nana"
+        icon = "hero_little_icon_nana"
+        bigIcon = "hero_big_icon_nana"
+        type = "Support/Mage"
+        specialization = "Reap/Crowd Control"
+        durability = "10"
+        offence = "10"
+        ability_effects = "16"
+        difficulty = "8"
+        >
+    </Hero>
+    <Hero
+        name = "Alice"
+        icon = "hero_little_icon_alice"
+        bigIcon = "hero_big_icon_alice"
+        type = "Mage"
+        specialization = "Change/Regen"
+        durability = "14"
+        offence = "10"
+        ability_effects = "16"
+        difficulty = "14"
+        >
+    </Hero>
+    <Hero
+        name = "Saber"
+        icon = "hero_little_icon_saber"
+        bigIcon = "hero_big_icon_saber"
+        type = "Assasin"
+        specialization = "Charge/Reap"
+        durability = "13"
+        offence = "18"
+        ability_effects = "10"
+        difficulty = "12"
+        >
+    </Hero>
+    <Hero
+        name = "Balmond"
+        icon = "hero_little_icon_balmond"
+        bigIcon = "hero_big_icon_balmond"
+        type = "Fighter/Tank"
+        specialization = "Crowd Control/Regen"
+        durability = "16"
+        offence = "15"
+        ability_effects = "8"
+        difficulty = "6"
+        >
+    </Hero>
+    <Hero
+        name = "Miya"
+        icon = "hero_little_icon_miya"
+        bigIcon = "hero_big_icon_miya"
+        type = "Marksman"
+        specialization = "Reap"
+        durability = "7"
+        offence = "19"
+        ability_effects = "13"
+        difficulty = "7"
+        >
+    </Hero>
+
+
+</Heroes>
